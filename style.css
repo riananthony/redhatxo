@@ -6,4 +6,6 @@ p {
 	font-size: 30px
 }
 
-<div class="topnav">
+.topnav {
+	font-size: 25px
+}
