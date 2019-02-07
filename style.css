@@ -40,20 +40,31 @@ p {
 
 .container {
   font-size: 30px
+  text-align: center;
 }
 
+.heritage {
+  background-image: url(https://us.123rf.com/450wm/marjancermelj/marjancermelj1401/marjancermelj140100003/25398183-american-ash-wooden-boards-background-brown-color-nature-pattern-wood-texture-decorative-furniture-s.jpg?ver=6);
+  background-color: #333;
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+}
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
-}
-
-.container {
-  text-align: center;
+  width: 50%;
 }
 
 .shoptext {
   text-align: center;
 }
+
+.intro {
+  background-image: url(https://us.123rf.com/450wm/marjancermelj/marjancermelj1401/marjancermelj140100003/25398183-american-ash-wooden-boards-background-brown-color-nature-pattern-wood-texture-decorative-furniture-s.jpg?ver=6);
+}
+
